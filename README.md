@@ -1,6 +1,6 @@
 # kkutu-korea-hack
 
-끄투 코리아 긴단어를 자동으로 입력해주는 유저 스크립트입니다.
+끄투 코리아 끝말잇기에서 단어를 자동으로 입력해주는 유저 스크립트입니다.
 
 [설치](https://raw.githubusercontent.com/green1052/kkutu-korea-hack/main/kkutu-korea-hack.user.js)
 
